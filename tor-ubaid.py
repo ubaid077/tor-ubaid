@@ -422,8 +422,8 @@ def log_sel():
 		print("")
 		log_select()
 def login():
-	print(" \x1b[1;92mTHIS TOOL IS TEMPORARLY LOCK FIRSTFOLLOW ME ON FB")
-	time.sleep(5)
+	print(" \x1b[1;92mTHIS TOOL IS TEMPORARLY LOCK FIRST FOLLOW ME ON FB")
+	time.sleep(10)
 	os.system('xdg-open https://facebook.com/UbAido.MaLanG.SwaBiWal ')
 	time.sleep(1)
 	try:
